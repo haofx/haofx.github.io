@@ -11,6 +11,6 @@ order: 4
 ---
 
 > ## 友情链接
-> ## [niedzfs|德住分享](niedzfs.com)
+> ## [niedzfs|德住分享](https://niedzfs.com)
 > **一个资源分享站**
 {: .prompt-tip }
