@@ -18,12 +18,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Haofx # the main title
+title: 出海无忧 # the main title
 
 tagline: Go get some fries on the pier. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  haofx|好分享。专注分享，出海无忧。
+  出海无忧，科学上网，梯子，魔法上网，机场。
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://chwy.niedzfs.com"
@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/dp_7100 # change to your twitter homepage
-    - https://github.com/haofx # change to your github homepage
+    - https://niedzfs.com # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
