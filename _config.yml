@@ -42,9 +42,9 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/dp_7100 # change to your twitter homepage
-    - https://niedzfs.com # change to your github homepage
+    - https://github.com/haofx # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://niedzfs.com
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
