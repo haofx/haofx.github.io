@@ -2,7 +2,7 @@
 title: BatVPN：支持ChatGPT的最佳VPN服务
 date: 2023-05-14 19:39:00 +0800
 categories: [科学上网]
-tags: [Chat GPT, 魔法上网, 翻墙,梯子,机场]
+tags: [Chat GPT, 魔法上网, 翻墙,梯子,机场,vpn]
 ---
 
 ## BatVPN：支持ChatGPT的最佳VPN服务
